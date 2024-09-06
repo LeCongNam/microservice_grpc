@@ -1,0 +1,1 @@
+npm i -D ts-proto @protobuf-ts/protoc
