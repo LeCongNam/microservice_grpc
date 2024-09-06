@@ -1,1 +1,2 @@
+fix protoc  not found
 npm i -D ts-proto @protobuf-ts/protoc
